@@ -13,7 +13,6 @@
 	<script src="https://code.jquery.com/jquery-3.1.0.js" ></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 	<script src="<?php echo THEME_URL; ?>js/simpleslider.js"></script>
-	<script src="<?php echo THEME_URL; ?>js/jquery.fullPage.js"></script>
 	<script src="<?php echo THEME_URL; ?>js/animate.js"></script>
 	<script src="<?php echo THEME_URL; ?>js/scripts.js"></script>
     <?php wp_footer(); ?> 
